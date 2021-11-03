@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\ianok\Documents\openGLroot\Project1\Project1\main.cpp(92,56): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\ianok\Documents\openGLroot\Project1\Project1\main.cpp(94,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ianok\Documents\openGLroot\Project1\Project1\main.cpp(95,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ianok\Documents\openGLroot\Project1\Project1\main.cpp(157,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ianok\Documents\openGLroot\Project1\Project1\main.cpp(158,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ianok\Documents\openGLroot\Project1\Project1\main.cpp(161,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ianok\Documents\openGLroot\Project1\Project1\main.cpp(162,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Project1.vcxproj -> C:\Users\ianok\Documents\openGLroot\Project1\Debug\Project1.exe
